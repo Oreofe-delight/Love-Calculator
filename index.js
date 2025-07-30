@@ -10,8 +10,5 @@ function calculateLove() {
         document.getElementById('result').innerText = `${name1} ❤️ ${name2} = ${compatibility}% compatibility!`;
         }
 
-    // if (!name1 || !name2) {
-    //     resultDiv.innerText = "Please enter both names.";
-    //     return;
-    // }
+
 
